@@ -1,0 +1,27 @@
+body {
+    background: #f9f9f9;
+    padding: 0;
+    position: relative;
+    height: 100vh;
+}
+
+.wrapper {	
+	min-height: 100vh;	
+}
+
+main {	
+    padding: 0 50px;
+    padding-bottom: 150px;    
+}
+
+footer {
+	position: absolute;
+	height: 150px;
+	bottom: 0;
+}
+
+.card {
+    margin-bottom: 15px;
+    border-radius: 0;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
